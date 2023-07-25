@@ -18,10 +18,14 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "i2c.h"
+#include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "pca9685.h"
+#include "stdint.h"
+#include "steps.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -31,6 +35,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
+
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -82,14 +87,30 @@ int main(void)
   /* USER CODE END SysInit */
 
   /* Initialize all configured peripherals */
+  MX_GPIO_Init();
+  MX_I2C1_Init();
   /* USER CODE BEGIN 2 */
 
+  PCA9685_Init(&hi2c1);
+    PCA9685_SetServoAngle(0, 0);
+    PCA9685_SetServoAngle(1, 0);
+    PCA9685_SetServoAngle(2, 0);
+    PCA9685_SetServoAngle(3, 0);
+    PCA9685_SetServoAngle(4, 0);
+    PCA9685_SetServoAngle(5, 0);
+    PCA9685_SetServoAngle(6, 0);
+    PCA9685_SetServoAngle(8, 0);
+    PCA9685_SetServoAngle(9, 0);
+    PCA9685_SetServoAngle(10, 0);
+    PCA9685_SetServoAngle(11, 0);
+    HAL_Delay(1000);
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  stepss();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

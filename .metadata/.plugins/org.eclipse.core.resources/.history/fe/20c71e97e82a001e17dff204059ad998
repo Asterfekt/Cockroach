@@ -1,0 +1,30 @@
+/*
+ * steps.c
+ *
+ *  Created on: Jul 25, 2023
+ *      Author: Mateusz Krzyściak
+ */
+
+
+#include "main.h"
+#include "i2c.h"
+#include "steps.h"
+#include "math.h"
+#include "pca9685.h"
+
+#define SERVO_COUNT	5
+ uint8_t ActiveServo;
+void steps()
+{
+	for (uint8_t Angle = 0; Angle < 180; Angle++) {
+				  PCA9685_SetServoAngle(1, Angle);
+				  PCA9685_SetServoAngle(2, Angle);
+			    }
+			  HAL_Delay(100);
+			  for (uint16_t Angle = 180; Angle > 0; Angle--) {
+				  PCA9685_SetServoAngle(1, Angle);
+				  PCA9685_SetServoAngle(2, Angle);
+			  }
+			  HAL_Delay(100);
+			  if (ActiveServo >= SERVO_COUNT) ActiveServo = 0;
+}
