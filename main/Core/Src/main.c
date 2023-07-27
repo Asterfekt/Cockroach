@@ -105,12 +105,22 @@ int main(void)
     PCA9685_SetServoAngle(11, 0);
     HAL_Delay(1000);
   /* USER CODE END 2 */
+    HAL_Delay(2500);
+    first();
+    HAL_Delay(5500);
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+
   while (1)
   {
-	  stepss();
+	  second();
+	  HAL_Delay(1500);
+	  third();
+	  HAL_Delay(1500);
+
+	 fourth();
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

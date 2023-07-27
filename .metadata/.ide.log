@@ -753,3 +753,1183 @@
 2023-07-24 16:48:21,907 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
 2023-07-24 16:48:21,928 [INFO] ApiDb:276 - Save user favorites file C:\Users\mateu/.stm32cubeide/favorites.mcus.txt: 0 item(s)
 2023-07-24 16:48:21,928 [INFO] ApiDb:280 - User favorites MCUs=[]
+2023-07-25 12:01:19,566 [INFO] I2cTimingTraitement:325 - 0x00000E14
+2023-07-25 12:02:20,775 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 909781656 Bytes (1073741824)
+2023-07-25 12:02:21,675 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 938619544 Bytes (1073741824)
+2023-07-25 12:02:24,270 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 761726160 Bytes (1073741824)
+2023-07-25 12:02:24,704 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-07-25 12:02:24,704 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-07-25 12:02:24,704 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-07-25 12:02:24,704 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-07-25 12:02:24,705 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: I2C
+2023-07-25 12:02:24,706 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.8.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.4.0.202111222105\\db\
+2023-07-25 12:02:25,262 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\license.tmp_save
+2023-07-25 12:02:25,335 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\license.tmp
+2023-07-25 12:02:25,400 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\gpio.tmp_save
+2023-07-25 12:02:25,472 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\gpio.tmp
+2023-07-25 12:02:25,604 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_it.c_save
+2023-07-25 12:02:25,777 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_it.c
+2023-07-25 12:02:25,787 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_it.h_save
+2023-07-25 12:02:25,868 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_it.h
+2023-07-25 12:02:25,888 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_hal_msp.c_save
+2023-07-25 12:02:26,021 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_hal_msp.c
+2023-07-25 12:02:26,028 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\system.tmp_save
+2023-07-25 12:02:26,093 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\system.tmp
+2023-07-25 12:02:26,107 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_hal_conf.h_save
+2023-07-25 12:02:26,238 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_hal_conf.h
+2023-07-25 12:02:26,297 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\main.h_save
+2023-07-25 12:02:26,378 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\main.h
+2023-07-25 12:02:26,387 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\main.c_save
+2023-07-25 12:02:26,515 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\main.c
+2023-07-25 12:02:27,866 [INFO] ProjectBuilder:2589 - Time for Copy HAL[1] : 330mS.
+2023-07-25 12:02:27,872 [INFO] ProjectBuilder:3665 - Project Generator version: 3.15.2
+2023-07-25 12:02:28,923 [INFO] ConfigFileManager:1273 - The Die is : DIE435
+2023-07-25 12:02:31,060 [INFO] ProjectBuilder:3832 - Time for Generating toolchain IDE Files: 3188mS.
+2023-07-25 12:02:31,062 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 1mS.
+2023-07-25 12:02:31,065 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 0mS.
+2023-07-25 12:02:40,428 [INFO] I2cTimingTraitement:325 - 0x00000E14
+2023-07-25 12:02:40,448 [INFO] I2cTimingTraitement:325 - 0x00000E14
+2023-07-25 12:03:10,393 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 895739392 Bytes (1073741824)
+2023-07-25 12:03:11,957 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 827112896 Bytes (1073741824)
+2023-07-25 12:03:13,718 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 867483064 Bytes (1073741824)
+2023-07-25 12:03:14,212 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-07-25 12:03:14,213 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-07-25 12:03:14,213 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-07-25 12:03:14,213 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-07-25 12:03:14,213 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: I2C
+2023-07-25 12:03:14,215 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.8.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.4.0.202111222105\\db\
+2023-07-25 12:03:14,612 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\license.tmp_save
+2023-07-25 12:03:14,738 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\license.tmp
+2023-07-25 12:03:14,794 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\gpio.c_save
+2023-07-25 12:03:14,875 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\gpio.c
+2023-07-25 12:03:14,881 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\gpio.h_save
+2023-07-25 12:03:14,981 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\gpio.h
+2023-07-25 12:03:15,083 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\i2c.c_save
+2023-07-25 12:03:15,212 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\i2c.c
+2023-07-25 12:03:15,217 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\i2c.h_save
+2023-07-25 12:03:15,310 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\i2c.h
+2023-07-25 12:03:15,326 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_it.c_save
+2023-07-25 12:03:15,423 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_it.c
+2023-07-25 12:03:15,431 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_it.h_save
+2023-07-25 12:03:15,512 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_it.h
+2023-07-25 12:03:15,528 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_hal_msp.c_save
+2023-07-25 12:03:15,655 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_hal_msp.c
+2023-07-25 12:03:15,662 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\system.tmp_save
+2023-07-25 12:03:15,744 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\system.tmp
+2023-07-25 12:03:15,761 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_hal_conf.h_save
+2023-07-25 12:03:15,864 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_hal_conf.h
+2023-07-25 12:03:15,937 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\main.h_save
+2023-07-25 12:03:16,044 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\main.h
+2023-07-25 12:03:16,053 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\main.c_save
+2023-07-25 12:03:16,194 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\main.c
+2023-07-25 12:03:17,386 [INFO] ProjectBuilder:2589 - Time for Copy HAL[1] : 266mS.
+2023-07-25 12:03:17,393 [INFO] ProjectBuilder:3665 - Project Generator version: 3.15.2
+2023-07-25 12:03:17,989 [INFO] ConfigFileManager:1273 - The Die is : DIE435
+2023-07-25 12:03:20,313 [INFO] ProjectBuilder:3832 - Time for Generating toolchain IDE Files: 2920mS.
+2023-07-25 12:03:20,315 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 1mS.
+2023-07-25 12:03:20,318 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 0mS.
+2023-07-25 12:40:40,023 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.297162417 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,028 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.37096455 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,032 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.1940531607 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,037 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.core.1083960614 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,042 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1313798067 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,047 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.1584146877 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,053 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.175945867 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,080 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.297162417 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,085 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.37096455 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,089 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.1940531607 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,093 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.core.1083960614 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,097 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1313798067 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,101 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.1584146877 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,104 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.175945867 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,143 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.297162417 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,146 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.37096455 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,150 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.1940531607 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,153 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.core.1083960614 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,157 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1313798067 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,160 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.1584146877 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,163 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.175945867 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,175 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.297162417 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,177 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.37096455 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,180 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.1940531607 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,184 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.core.1083960614 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,187 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1313798067 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,190 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.1584146877 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:40,193 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.175945867 uses a null category that is invalid in its context. The option was ignored.
+2023-07-25 12:40:50,902 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:40:50,903 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:40:51,019 [INFO] I2cTimingTraitement:325 - 0x00000E14
+2023-07-25 12:40:51,023 [INFO] MicroXplorer:447 - Change Database Path : 
+2023-07-25 12:40:51,024 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.40
+2023-07-25 12:40:51,024 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2023-07-25 12:40:51,024 [INFO] ThirdParty:825 - entering critical section [close project]
+2023-07-25 12:40:51,024 [INFO] ThirdParty:835 - exiting critical section [close project]
+2023-07-25 12:40:51,025 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:40:51,034 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 884797256 Bytes (1073741824)
+2023-07-25 12:40:53,379 [INFO] ServerAccessManage:359 - Download File stm32cube_db_v500.zip
+2023-07-25 12:40:54,363 [INFO] FileExtend:235 - Unzip File : stm32cube_db_v500.zip
+2023-07-25 12:40:54,363 [INFO] FileExtend:250 - Standard Zip Deflate
+2023-07-25 12:40:58,167 [INFO] LoadServerPackagesThread:180 - End of LoadServerPackages Thread
+2023-07-25 12:40:58,401 [INFO] CheckServerUpdateThread:115 - End of CheckServer Thread
+2023-07-25 12:40:59,054 [INFO] ServerAccessManage:359 - Download File stm32cube_db_v501.zip
+2023-07-25 12:41:00,190 [INFO] FileExtend:235 - Unzip File : stm32cube_db_v501.zip
+2023-07-25 12:41:00,191 [INFO] FileExtend:250 - Standard Zip Deflate
+2023-07-25 12:41:04,742 [INFO] ServerAccessManage:359 - Download File stm32cube_fw_f4_v1230.zip
+2023-07-25 12:42:36,981 [ERROR] FileExtend:450 - File entry not found
+2023-07-25 12:42:36,983 [INFO] FileExtend:235 - Unzip File : stm32cube_fw_f4_v1230.zip
+2023-07-25 12:42:36,983 [INFO] FileExtend:250 - Standard Zip Deflate
+2023-07-25 12:43:37,648 [INFO] LoadServerPackagesThread:180 - End of LoadServerPackages Thread
+2023-07-25 12:43:37,826 [INFO] CheckServerUpdateThread:115 - End of CheckServer Thread
+2023-07-25 12:43:37,846 [INFO] MicroXplorer:447 - Change Database Path : C:/Users/mateu/.stm32cubemx/databases/DB.5.0.0/db/
+2023-07-25 12:43:37,847 [INFO] MicroXplorer:477 - Change Database Version : DB.5.0.0
+2023-07-25 12:43:37,847 [INFO] OpenFileManager:313 - Change cursor
+2023-07-25 12:43:37,880 [INFO] RulesReader:57 - Compatibility file has been processed (127 Rules)
+2023-07-25 12:43:39,506 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-25 12:43:39,994 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:43:39,995 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:43:39,995 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:43:40,329 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:43:40,329 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:43:40,329 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:43:40,788 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:43:40,789 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:43:40,789 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:43:40,806 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2023-07-25 12:43:40,807 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.4: no header file found
+2023-07-25 12:43:40,808 [WARN] ModelIntegratedComponent:179 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS:FreeRTOS::10.2.0:CMSIS_V1
+2023-07-25 12:43:40,808 [WARN] ModelIntegratedComponent:185 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS:FreeRTOS::10.2.0:CMSIS_V1
+2023-07-25 12:43:40,808 [WARN] ModelIntegratedComponent:179 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS2:FreeRTOS::10.2.0:
+2023-07-25 12:43:40,809 [WARN] ModelIntegratedComponent:185 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS2:FreeRTOS::10.2.0:
+2023-07-25 12:43:40,809 [WARN] ModelIntegratedComponent:179 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-25 12:43:40,809 [WARN] ModelIntegratedComponent:185 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-25 12:43:40,811 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.2: no header file found
+2023-07-25 12:43:40,821 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2023-07-25 12:43:40,822 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.2: no header file found
+2023-07-25 12:43:40,824 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.3: no header file found
+2023-07-25 12:43:40,832 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:43:40,832 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:43:40,832 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:43:40,839 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,840 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,840 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,840 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,840 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,840 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,840 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,841 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,841 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,841 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,841 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,841 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,841 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,841 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,842 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,843 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,843 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,843 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,843 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,843 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,843 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,843 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,844 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,844 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:43:40,846 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.1: no header file found
+2023-07-25 12:43:40,847 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2023-07-25 12:43:40,852 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:43:40,852 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:43:40,852 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:43:40,854 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,854 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,854 [WARN] ApiManager:304 - Cannot register API 'Board Extension:PGEEZ1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,855 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,855 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,855 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95P32' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,855 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:SPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,855 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:QDSPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:43:40,862 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:43:40,862 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:43:40,862 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:43:40,863 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2023-07-25 12:43:40,890 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:43:40,890 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:43:40,890 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:43:40,892 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.3.0.0: no header file found
+2023-07-25 12:43:41,230 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:43:41,231 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:43:41,231 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:43:41,577 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:43:41,577 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:43:41,577 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:43:41,589 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:43:41,589 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:43:41,590 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:43:41,590 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:43:41,590 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:44:05,938 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:05,938 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:06,211 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 903433928 Bytes (1073741824)
+2023-07-25 12:44:06,224 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2023-07-25 12:44:06,225 [INFO] ThirdParty:787 - entering critical section [change project]
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.2.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-25 12:44:06,225 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.1.0
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.1
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.2
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.2
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.3
+2023-07-25 12:44:06,226 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.1.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.1.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.1.1
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.0.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.2.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-25 12:44:06,227 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.0.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.18.1
+2023-07-25 12:44:06,228 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.0.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-25 12:44:06,229 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.1.0
+2023-07-25 12:44:06,230 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.3.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.0.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.2
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.20.0
+2023-07-25 12:44:06,231 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.0.0
+2023-07-25 12:44:06,232 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-07-25 12:44:06,232 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.1.0
+2023-07-25 12:44:06,232 [INFO] ThirdParty:977 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-25 12:44:06,232 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-25 12:44:06,232 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.5.0
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-25 12:44:06,233 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.0.1
+2023-07-25 12:44:06,234 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.0.0
+2023-07-25 12:44:06,234 [INFO] ThirdParty:793 - exiting critical section [change project]
+2023-07-25 12:44:06,556 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:44:06,557 [INFO] PinOutPanel:1463 - setPackage(STM32F401RETx,LQFP64)
+2023-07-25 12:44:06,861 [INFO] UtilMem:74 - Before build in PCC Used Memory: 857463152 Bytes (1073741824)
+2023-07-25 12:44:07,344 [INFO] UtilMem:74 - After build in PCC Used Memory: 928766320 Bytes (1073741824)
+2023-07-25 12:44:07,405 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,406 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,407 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,407 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,408 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,409 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,409 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,409 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,410 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,410 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,411 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,411 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,428 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,429 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,430 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,431 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,432 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,433 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,434 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,436 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,436 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,437 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,439 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,439 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,440 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,441 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,442 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,443 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,443 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,444 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,444 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,445 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,446 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,448 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,449 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,450 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,452 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,453 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:44:07,466 [INFO] ApiDbMcu:488 - Load IP Config File for PDM2PCM
+2023-07-25 12:44:07,468 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:07,469 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:07,535 [INFO] OpenFileManager:333 - Restore cursor
+2023-07-25 12:44:07,613 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:07,613 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:07,614 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:07,614 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:44:35,236 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:44:35,237 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:44:35,949 [INFO] MicroXplorer:447 - Change Database Path : 
+2023-07-25 12:44:35,949 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.40
+2023-07-25 12:44:35,949 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2023-07-25 12:44:35,950 [INFO] ThirdParty:825 - entering critical section [close project]
+2023-07-25 12:44:35,950 [INFO] ThirdParty:835 - exiting critical section [close project]
+2023-07-25 12:44:35,950 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:44:35,959 [WARN] IpParametersView:144 - Warning: This peripheral hasn't parameters
+2023-07-25 12:44:35,964 [WARN] MainPanel:249 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-07-25 12:44:35,973 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 855605648 Bytes (1073741824)
+2023-07-25 12:44:35,974 [INFO] MicroXplorer:447 - Change Database Path : 
+2023-07-25 12:44:35,974 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.40
+2023-07-25 12:44:35,974 [INFO] OpenFileManager:313 - Change cursor
+2023-07-25 12:44:37,714 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-25 12:44:38,213 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:44:38,213 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:44:38,213 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:44:38,500 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:44:38,500 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:44:38,500 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:44:38,858 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:44:38,859 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:44:38,859 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:44:38,865 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2023-07-25 12:44:38,865 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.4: no header file found
+2023-07-25 12:44:38,866 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-07-25 12:44:38,866 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-07-25 12:44:38,866 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-07-25 12:44:38,867 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-07-25 12:44:38,867 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-25 12:44:38,868 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.2: no header file found
+2023-07-25 12:44:38,869 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2023-07-25 12:44:38,870 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.2: no header file found
+2023-07-25 12:44:38,871 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.3: no header file found
+2023-07-25 12:44:38,876 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:44:38,876 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:44:38,876 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:44:38,880 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,880 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,880 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,880 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,881 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,882 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:44:38,884 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.1: no header file found
+2023-07-25 12:44:38,885 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2023-07-25 12:44:38,888 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:44:38,888 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:44:38,888 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:44:38,889 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,889 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,889 [WARN] ApiManager:304 - Cannot register API 'Board Extension:PGEEZ1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,889 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,889 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,890 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95P32' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,890 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:SPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,890 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:QDSPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:44:38,894 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:44:38,894 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:44:38,894 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:44:38,895 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2023-07-25 12:44:38,910 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:44:38,911 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:44:38,911 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:44:38,912 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.3.0.0: no header file found
+2023-07-25 12:44:39,133 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:44:39,133 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:44:39,133 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:44:39,413 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:44:39,413 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:44:39,413 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:44:39,423 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:44:39,423 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:44:39,424 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:44:39,424 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:44:39,424 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:45:05,128 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 874345720 Bytes (1073741824)
+2023-07-25 12:45:05,187 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2023-07-25 12:45:05,188 [INFO] ThirdParty:787 - entering critical section [change project]
+2023-07-25 12:45:05,188 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-25 12:45:05,188 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-25 12:45:05,188 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-25 12:45:05,188 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-25 12:45:05,188 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-25 12:45:05,188 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.2.0
+2023-07-25 12:45:05,188 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.1.0
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.1
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.2
+2023-07-25 12:45:05,189 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.2
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.3
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.1.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.1.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.1.1
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.0.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-25 12:45:05,190 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.2.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.0.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-25 12:45:05,191 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.18.1
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.0.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.0
+2023-07-25 12:45:05,192 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-25 12:45:05,193 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.1.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.3.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.0.0
+2023-07-25 12:45:05,194 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2023-07-25 12:45:05,195 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-25 12:45:05,195 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-07-25 12:45:05,195 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-25 12:45:05,195 [INFO] ThirdParty:977 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.2
+2023-07-25 12:45:05,195 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.20.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.0.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.1.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.5.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2023-07-25 12:45:05,196 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-25 12:45:05,197 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.0.1
+2023-07-25 12:45:05,197 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.0.0
+2023-07-25 12:45:05,197 [INFO] ThirdParty:793 - exiting critical section [change project]
+2023-07-25 12:45:05,483 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:45:05,486 [INFO] PinOutPanel:1463 - setPackage(STM32L432KCUx,UFQFPN32)
+2023-07-25 12:45:05,963 [INFO] UtilMem:74 - Before build in PCC Used Memory: 898907448 Bytes (1073741824)
+2023-07-25 12:45:06,572 [INFO] UtilMem:74 - After build in PCC Used Memory: 943571632 Bytes (1073741824)
+2023-07-25 12:45:06,618 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,619 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,620 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,620 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,621 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,622 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,623 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,623 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,624 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,624 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,625 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,625 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,626 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,626 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,627 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,628 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,628 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,629 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,629 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,630 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,631 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,631 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,632 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,633 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,634 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,635 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,636 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,637 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,638 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,639 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,640 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,640 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,641 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,642 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,642 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,643 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,644 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,644 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,645 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,647 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,647 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:45:06,741 [INFO] OpenFileManager:333 - Restore cursor
+2023-07-25 12:45:38,112 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:45:38,112 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:45:38,421 [INFO] I2cTimingTraitement:325 - 0x00000E14
+2023-07-25 12:45:38,423 [INFO] MicroXplorer:447 - Change Database Path : 
+2023-07-25 12:45:38,423 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.40
+2023-07-25 12:45:38,423 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2023-07-25 12:45:38,424 [INFO] ThirdParty:825 - entering critical section [close project]
+2023-07-25 12:45:38,424 [INFO] ThirdParty:835 - exiting critical section [close project]
+2023-07-25 12:45:38,425 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:45:38,426 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 904637256 Bytes (1073741824)
+2023-07-25 12:45:38,435 [INFO] MicroXplorer:447 - Change Database Path : C:/Users/mateu/.stm32cubemx/databases/DB.5.0.0/db/
+2023-07-25 12:45:38,435 [INFO] MicroXplorer:477 - Change Database Version : DB.5.0.0
+2023-07-25 12:45:39,762 [INFO] OpenFileManager:313 - Change cursor
+2023-07-25 12:45:40,958 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-25 12:45:41,250 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:45:41,250 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:45:41,250 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:45:41,466 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:45:41,466 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:45:41,466 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:45:41,803 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:45:41,803 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:45:41,804 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:45:41,810 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2023-07-25 12:45:41,811 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.4: no header file found
+2023-07-25 12:45:41,811 [WARN] ModelIntegratedComponent:179 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS:FreeRTOS::10.2.0:CMSIS_V1
+2023-07-25 12:45:41,811 [WARN] ModelIntegratedComponent:185 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS:FreeRTOS::10.2.0:CMSIS_V1
+2023-07-25 12:45:41,811 [WARN] ModelIntegratedComponent:179 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS2:FreeRTOS::10.2.0:
+2023-07-25 12:45:41,811 [WARN] ModelIntegratedComponent:185 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:CMSIS::RTOS2:FreeRTOS::10.2.0:
+2023-07-25 12:45:41,812 [WARN] ModelIntegratedComponent:179 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-25 12:45:41,812 [WARN] ModelIntegratedComponent:185 - Modes not found for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-25 12:45:41,813 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.2: no header file found
+2023-07-25 12:45:41,814 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2023-07-25 12:45:41,814 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.2: no header file found
+2023-07-25 12:45:41,815 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.3: no header file found
+2023-07-25 12:45:41,820 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:45:41,821 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:45:41,821 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:45:41,825 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,825 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,825 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,826 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,827 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,828 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,828 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:45:41,829 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.1: no header file found
+2023-07-25 12:45:41,830 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2023-07-25 12:45:41,834 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:45:41,834 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:45:41,834 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:45:41,836 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,836 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,836 [WARN] ApiManager:304 - Cannot register API 'Board Extension:PGEEZ1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,836 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,836 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,836 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95P32' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,836 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:SPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,837 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:QDSPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:45:41,843 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:45:41,843 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:45:41,844 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:45:41,844 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2023-07-25 12:45:41,867 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:45:41,868 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:45:41,868 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:45:41,869 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.3.0.0: no header file found
+2023-07-25 12:45:42,162 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:45:42,162 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:45:42,162 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:45:42,462 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:45:42,463 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:45:42,463 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:45:42,475 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:45:42,475 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:45:42,476 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:45:42,476 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:45:42,476 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:46:07,237 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:07,238 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:07,568 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 856721680 Bytes (1073741824)
+2023-07-25 12:46:07,620 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2023-07-25 12:46:07,620 [INFO] ThirdParty:787 - entering critical section [change project]
+2023-07-25 12:46:07,620 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-25 12:46:07,621 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-25 12:46:07,621 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-25 12:46:07,621 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-25 12:46:07,621 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-25 12:46:07,621 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.2.0
+2023-07-25 12:46:07,621 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-25 12:46:07,621 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.1.0
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.1
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.2
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2023-07-25 12:46:07,622 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.2
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.3
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.1.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.1.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.1.1
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.0.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-25 12:46:07,623 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.2.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.0.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-25 12:46:07,624 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.18.1
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.0.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-25 12:46:07,625 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.0
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-25 12:46:07,626 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.1.0
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-25 12:46:07,627 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-25 12:46:07,628 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-25 12:46:07,628 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2023-07-25 12:46:07,628 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.0
+2023-07-25 12:46:07,628 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.3.0
+2023-07-25 12:46:07,628 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.0.0
+2023-07-25 12:46:07,628 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2023-07-25 12:46:07,628 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.2
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.20.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.0.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.1.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.5.0
+2023-07-25 12:46:07,629 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.0.1
+2023-07-25 12:46:07,630 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.0.0
+2023-07-25 12:46:07,630 [INFO] ThirdParty:793 - exiting critical section [change project]
+2023-07-25 12:46:07,897 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:46:07,898 [INFO] PinOutPanel:1463 - setPackage(STM32F401RETx,LQFP64)
+2023-07-25 12:46:08,226 [INFO] UtilMem:74 - Before build in PCC Used Memory: 903145528 Bytes (1073741824)
+2023-07-25 12:46:08,534 [INFO] UtilMem:74 - After build in PCC Used Memory: 865128472 Bytes (1073741824)
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,561 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,562 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,562 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,562 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,562 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,562 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,563 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,563 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,563 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,564 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,564 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,565 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,565 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,565 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,566 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,566 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,567 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,567 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,568 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,568 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,568 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,569 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,569 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,570 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,570 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,571 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,572 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,572 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,573 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,574 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,575 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:46:08,578 [INFO] ApiDbMcu:488 - Load IP Config File for PDM2PCM
+2023-07-25 12:46:08,579 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,579 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,668 [INFO] OpenFileManager:333 - Restore cursor
+2023-07-25 12:46:08,723 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 893172552 Bytes (1073741824)
+2023-07-25 12:46:08,757 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,757 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,758 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,758 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,807 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,807 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,808 [WARN] IP:2107 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:08,808 [WARN] IP:2107 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-07-25 12:46:36,593 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:46:36,593 [INFO] MainUpdater:2729 - connection check result : 10
+2023-07-25 12:46:36,664 [INFO] MicroXplorer:447 - Change Database Path : 
+2023-07-25 12:46:36,664 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.40
+2023-07-25 12:46:36,664 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2023-07-25 12:46:36,664 [INFO] ThirdParty:825 - entering critical section [close project]
+2023-07-25 12:46:36,664 [INFO] ThirdParty:835 - exiting critical section [close project]
+2023-07-25 12:46:36,665 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:46:36,672 [WARN] IpParametersView:144 - Warning: This peripheral hasn't parameters
+2023-07-25 12:46:36,675 [WARN] MainPanel:249 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-07-25 12:46:36,676 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 915375872 Bytes (1073741824)
+2023-07-25 12:46:36,677 [INFO] MicroXplorer:447 - Change Database Path : 
+2023-07-25 12:46:36,677 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.40
+2023-07-25 12:46:36,678 [INFO] OpenFileManager:313 - Change cursor
+2023-07-25 12:46:36,693 [INFO] RulesReader:57 - Compatibility file has been processed (244 Rules)
+2023-07-25 12:46:38,281 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-25 12:46:38,736 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:46:38,737 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:46:38,737 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-07-25 12:46:39,054 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:46:39,054 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:46:39,054 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-07-25 12:46:39,395 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:46:39,395 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:46:39,395 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-07-25 12:46:39,401 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2023-07-25 12:46:39,401 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.4: no header file found
+2023-07-25 12:46:39,402 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-07-25 12:46:39,402 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-07-25 12:46:39,402 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-07-25 12:46:39,402 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-07-25 12:46:39,402 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-25 12:46:39,403 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.2: no header file found
+2023-07-25 12:46:39,404 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2023-07-25 12:46:39,405 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.2: no header file found
+2023-07-25 12:46:39,405 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.3: no header file found
+2023-07-25 12:46:39,410 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:46:39,410 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:46:39,411 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-07-25 12:46:39,414 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,415 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,416 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,417 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-07-25 12:46:39,418 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.1: no header file found
+2023-07-25 12:46:39,418 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2023-07-25 12:46:39,421 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:46:39,421 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:46:39,421 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'Board Extension:PGEEZ1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95P32' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:SPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,422 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:QDSPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-07-25 12:46:39,426 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:46:39,427 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:46:39,427 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-07-25 12:46:39,427 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2023-07-25 12:46:39,442 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:46:39,443 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:46:39,443 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-07-25 12:46:39,444 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.3.0.0: no header file found
+2023-07-25 12:46:39,672 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:46:39,673 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:46:39,673 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2023-07-25 12:46:39,938 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:46:39,939 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:46:39,939 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-07-25 12:46:39,948 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:46:39,948 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-07-25 12:46:39,949 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:46:39,949 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:46:39,949 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-07-25 12:47:04,262 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 834127040 Bytes (1073741824)
+2023-07-25 12:47:04,302 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2023-07-25 12:47:04,303 [INFO] ThirdParty:787 - entering critical section [change project]
+2023-07-25 12:47:04,303 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-25 12:47:04,303 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-25 12:47:04,303 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-25 12:47:04,303 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.2.0
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.1.0
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.1
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-25 12:47:04,304 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.2
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.2
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.3
+2023-07-25 12:47:04,305 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.1.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.1.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.1.1
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.0.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-25 12:47:04,306 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.2.0
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.0.0
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-25 12:47:04,307 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.18.1
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.0.0
+2023-07-25 12:47:04,308 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-25 12:47:04,309 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.1.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.3.0
+2023-07-25 12:47:04,310 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.0.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.2
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.20.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.0.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.1.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-25 12:47:04,312 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.5.0
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.0.1
+2023-07-25 12:47:04,313 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.0.0
+2023-07-25 12:47:04,314 [INFO] ThirdParty:793 - exiting critical section [change project]
+2023-07-25 12:47:04,545 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-07-25 12:47:04,546 [INFO] PinOutPanel:1463 - setPackage(STM32L432KCUx,UFQFPN32)
+2023-07-25 12:47:05,002 [INFO] UtilMem:74 - Before build in PCC Used Memory: 864653720 Bytes (1073741824)
+2023-07-25 12:47:05,450 [INFO] UtilMem:74 - After build in PCC Used Memory: 918490240 Bytes (1073741824)
+2023-07-25 12:47:05,473 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,474 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,474 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,474 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,474 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,474 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,474 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,474 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,475 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,475 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,475 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,475 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,475 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,476 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,476 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,477 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,477 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,477 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,477 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,478 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,478 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,479 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,479 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,479 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,480 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,480 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,481 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,481 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,481 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,482 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,482 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,483 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,483 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,484 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,485 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,485 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,486 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,487 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,488 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,489 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,489 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-07-25 12:47:05,564 [INFO] OpenFileManager:333 - Restore cursor
+2023-07-25 12:47:42,299 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 952549904 Bytes (1073741824)
+2023-07-25 12:47:43,315 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 852001256 Bytes (1073741824)
+2023-07-25 12:47:44,941 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 900829488 Bytes (1073741824)
+2023-07-25 12:47:45,325 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-07-25 12:47:45,325 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-07-25 12:47:45,325 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-07-25 12:47:45,325 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-07-25 12:47:45,325 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: I2C
+2023-07-25 12:47:45,327 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.8.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.4.0.202111222105\\db\
+2023-07-25 12:47:45,867 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\license.tmp_save
+2023-07-25 12:47:45,970 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\license.tmp
+2023-07-25 12:47:46,072 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\gpio.c_save
+2023-07-25 12:47:46,158 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\gpio.c
+2023-07-25 12:47:46,176 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\gpio.h_save
+2023-07-25 12:47:46,252 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\gpio.h
+2023-07-25 12:47:46,437 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\i2c.c_save
+2023-07-25 12:47:46,560 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\i2c.c
+2023-07-25 12:47:46,570 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\i2c.h_save
+2023-07-25 12:47:46,656 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\i2c.h
+2023-07-25 12:47:46,674 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_it.c_save
+2023-07-25 12:47:46,784 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_it.c
+2023-07-25 12:47:46,794 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_it.h_save
+2023-07-25 12:47:46,915 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_it.h
+2023-07-25 12:47:46,952 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_hal_msp.c_save
+2023-07-25 12:47:47,167 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\stm32l4xx_hal_msp.c
+2023-07-25 12:47:47,233 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\system.tmp_save
+2023-07-25 12:47:47,330 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\MXTmpFiles\system.tmp
+2023-07-25 12:47:47,357 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_hal_conf.h_save
+2023-07-25 12:47:47,469 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\stm32l4xx_hal_conf.h
+2023-07-25 12:47:47,546 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\main.h_save
+2023-07-25 12:47:47,688 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Inc\main.h
+2023-07-25 12:47:47,722 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\main.c_save
+2023-07-25 12:47:47,837 [INFO] CodeEngine:257 - Generated code: C:\Users\mateu\STM32CubeIDE\Cockroach\main\Core\Src\main.c
+2023-07-25 12:47:49,799 [INFO] ProjectBuilder:2589 - Time for Copy HAL[1] : 1044mS.
+2023-07-25 12:47:49,805 [INFO] ProjectBuilder:3665 - Project Generator version: 3.15.2
+2023-07-25 12:47:50,354 [INFO] ConfigFileManager:1273 - The Die is : DIE435
+2023-07-25 12:47:50,365 [INFO] ApiDbMcu:488 - Load IP Config File for FATFS
+2023-07-25 12:47:50,405 [INFO] ApiDbMcu:488 - Load IP Config File for FREERTOS
+2023-07-25 12:47:50,611 [INFO] ApiDbMcu:488 - Load IP Config File for TOUCHSENSING
+2023-07-25 12:47:50,643 [INFO] ApiDbMcu:488 - Load IP Config File for USB_DEVICE
+2023-07-25 12:47:53,242 [INFO] ProjectBuilder:3832 - Time for Generating toolchain IDE Files: 3437mS.
+2023-07-25 12:47:53,243 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 1mS.
+2023-07-25 12:47:53,247 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 0mS.
+2023-07-26 21:48:06,786 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out

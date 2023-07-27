@@ -1,1 +1,4 @@
-steps.c:17:5:stepss	8	static
+steps.c:20:6:first	8	static
+steps.c:71:5:second	8	static
+steps.c:90:5:third	8	static
+steps.c:113:5:fourth	8	static
