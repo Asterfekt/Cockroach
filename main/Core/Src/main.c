@@ -103,24 +103,46 @@ int main(void)
     PCA9685_SetServoAngle(9, 0);
     PCA9685_SetServoAngle(10, 0);
     PCA9685_SetServoAngle(11, 0);
+    PCA9685_SetServoAngle(12, 0);
     HAL_Delay(1000);
   /* USER CODE END 2 */
-    HAL_Delay(2500);
+    HAL_Delay(1500);
+    Set();
+    HAL_Delay(1500);
     first();
-    HAL_Delay(5500);
-
+     HAL_Delay(1500);
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
 
   while (1)
   {
-	  second();
-	  HAL_Delay(1500);
-	  third();
-	  HAL_Delay(1500);
 
-	 fourth();
 
+
+	    	second();
+	    	HAL_Delay(100);
+	     third();
+	      HAL_Delay(100);
+	      forth();
+	      HAL_Delay(100);
+	      five();
+	      HAL_Delay(100);
+	      second();
+	      	    	HAL_Delay(100);
+	      	     third();
+	      	      HAL_Delay(100);
+	      	      forth();
+	      	      HAL_Delay(100);
+	      	      five();
+	      	      HAL_Delay(100);
+	      	    second();
+	      	    	    	HAL_Delay(100);
+	      	    	     third();
+	      	    	      HAL_Delay(100);
+	      	    	      forth();
+	      	    	      HAL_Delay(100);
+	      	    	      five();
+	      	    	      HAL_Delay(100);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
